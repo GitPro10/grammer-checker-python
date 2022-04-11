@@ -14,21 +14,21 @@ For Linux
 pip3 install gingerit
 ```
 
-### What to replace
+### Bypass Cloudflare AntiBot
 >In gingerit.py at `line no. 16`
-#### Replace...
+#### Replace
 
 ```python
 session = requests.Session()
 ```
-#### With...
+#### With
 
 ```python
 import cloudscraper
 session = cloudscraper.create_scraper()
 ```
 
-### After that
+#### After that
 >Run the following command in terminal/command line
 
 ```console
@@ -38,7 +38,7 @@ For Linux
 ```console
 pip3 install cloudscraper
 ```
-### Where is `gingerit.py` file?
+#### Where is `gingerit.py` file?
 >Run the following command in terminal/command line
 
 ```console
