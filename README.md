@@ -38,6 +38,7 @@ For Linux
 ```console
 pip3 install cloudscraper
 ```
+>Remember not to update `gingerit` package till they fix this bug. Otherwise you will have to do all of the above steps again.
 #### Where is `gingerit.py` file?
 >Run the following command in terminal/command line
 
