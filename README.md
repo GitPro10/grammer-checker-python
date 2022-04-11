@@ -49,7 +49,7 @@ For Linux
 ```console
 pip3 show gingerit
 ```
->Then check the `Location`. Copy the `Location` value and go to that directory. There you will find a folder named `gingerit`, go to that directory. You will find `gingerit.py` there.
+>Then check the `Location`. Copy the `Location` value and go to that directory. There you will find a directory named `gingerit`, go to that directory. You will find `gingerit.py` there.
 
 
 
