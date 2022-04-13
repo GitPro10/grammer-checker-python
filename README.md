@@ -1,7 +1,7 @@
 # grammer-checker
 
 
->To work in certain countries we have to replace one line with below code after installing gingerit because sometimes gingerit fails to fetch the correction because of Cloudflare antibot which blocks gingerit's request, so we have to bypass it.
+>To work in certain countries we have to change one line of code after installing gingerit because sometimes gingerit fails to fetch the correction because of Cloudflare antibot which blocks gingerit's request, so we have to bypass it.
 
 ### Install GingerIt
 >Run the following command in terminal/command line
