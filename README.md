@@ -15,7 +15,7 @@ pip3 install gingerit
 ```
 
 ### Bypass Cloudflare AntiBot
->In gingerit.py at `line no. 16`
+>In `gingerit.py` at line no. 16
 #### Replace
 
 ```python
